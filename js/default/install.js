@@ -1,4 +1,4 @@
-/*
+﻿/*
  * 安装install.js
  */
 function haha(){
